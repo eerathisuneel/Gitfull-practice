@@ -1,3 +1,7 @@
 HI
+<<<<<<< HEAD
 Adding to merge
+=======
+adding 2nd line
+>>>>>>> 16076a85dee0978a202f0c4a0f1e8a1eba3cab06
 Hello welcome
